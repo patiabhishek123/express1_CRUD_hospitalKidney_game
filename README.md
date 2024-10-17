@@ -1,2 +1,1 @@
-# express1_CRUD_hospitalKidney_game
-Simpe crud operations sing express
+# This project uses all crud operations in a hospital managememnt system.
